@@ -1,0 +1,9 @@
+-- local present, rainbow = pcall(require, "rainbow")
+-- if not present then
+--  return
+-- end
+--
+-- rainbow.setup = {
+--   vim.g.rainbow_active = 1,
+-- }
+--
